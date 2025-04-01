@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://drive.google.com/drive/u/0/folders/18hW2sPKZlS0xRy43WnoXmNTtF4PS_JWn
+  RECOVERY_URL: https://drive.google.com/uc?export=download&id=1nYQMoaTvB7D1Mga_h7QUp7eLz64rsiTB
 
 jobs:
   build:
