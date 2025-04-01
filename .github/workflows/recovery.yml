@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://x0.at/ (RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://wormhole.app/
+  RECOVERY_URL: https://x0.at/-J9R
 
 jobs:
   build:
