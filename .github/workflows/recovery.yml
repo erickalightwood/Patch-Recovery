@@ -9,7 +9,7 @@ on:
         default: 'https://x0.at/ (RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://x0.at/-J9R
+  RECOVERY_URL: https://x0.at/-J9R.img
 
 jobs:
   build:
